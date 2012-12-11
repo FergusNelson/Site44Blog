@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://fergus.site44.com
+title: &beta;^4 Blog
+subtitle: Bytecode enthusiast. Amature Brewer. Beer Geek. Bicycling Roady.  
+author: Fergus Nelson
 simple_search: http://google.com/search
 description:
 
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: fergus_nelson
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
